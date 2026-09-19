@@ -33,4 +33,4 @@ En el desarrollo del software hay varias etapas, entre ellas están:
 7. Mantenimiento: Esta fase se mantiene de manera continua pues se va actualizando.
 
 
-Link al repositorio: https://github.com/Yago980/1DAMP_OrdonezGutierrez_Yago
+Link al repositorio: https://github.com/Yago980/1DAMP_ED_OrdonezGutierrez_Yago
