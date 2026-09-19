@@ -25,12 +25,12 @@ Código ejecutable: el código ejecutable es un conjunto de instrucciones en có
 En el desarrollo del software hay varias etapas, entre ellas están:
 
 1. Planificación: En esta etapa se definen los objetivos, plazos, recursos, etc...
-2. Análisis: En esta etapa ser recopila en detalle la información necesaria para saber que necesita hacer el software.
+2. Análisis: En esta etapa se recopila en detalle la información necesaria para saber que necesita hacer el software.
 3. Diseño: En esta etapa se planifica la arquitectura técnica, la interfaz, base de datos, etc...
 4. Desarrollo: En esta etapa se escribe el código fuente para convertir los diseños en algo funcional.
 5. Pruebas: En esta etapa se revisa el software a fondo para encontrar y corregir errores, para así asegurarse de que funcione y cumpla con lo que se busca.
 6. Implementación: En esta etapa se instala y se pone en marcha en el entorno real para que los usuarios puedan empezar a usarlo.
-7. Mantenimiento: Esta fase se mantiene de manera continua pues se va actualizando
+7. Mantenimiento: Esta fase se mantiene de manera continua pues se va actualizando.
 
 
 Link al repositorio: https://github.com/Yago980/1DAMP_OrdonezGutierrez_Yago
