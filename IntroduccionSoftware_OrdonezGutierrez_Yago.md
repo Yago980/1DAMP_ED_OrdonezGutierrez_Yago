@@ -8,7 +8,7 @@ Un programa informático también referido como software es una serie de instruc
 
 
 
-![[no_virus_100%_real.jpeg]]
+![imagen_graciosa_software](no_virus_100%_real.jpeg)
 
 
 
