@@ -33,4 +33,6 @@ En el desarrollo del software hay varias etapas, entre ellas están:
 7. Mantenimiento: Esta fase se mantiene de manera continua pues se va actualizando.
 
 
+'Estos cambios son por VScode'
+
 Link al repositorio: https://github.com/Yago980/1DAMP_ED_OrdonezGutierrez_Yago
